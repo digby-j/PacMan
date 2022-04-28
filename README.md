@@ -1,2 +1,2 @@
 # PacMan
-Utilising JavaScript to populate static page with player added objects and animations
+Control a PacMan image to simulate the PacMan moving across the screen and reversing direction, using JavaScript and DOM
