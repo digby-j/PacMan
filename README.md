@@ -24,7 +24,7 @@ I would like to add button to the ui and allow the player more control over pacm
 ![](https://img.shields.io/github/license/digby-j/PacMan)
 
 ### Please read the MIT License here:
-<a href src="https://github.com/digby-j/PacMan/blob/main/LICENSE">MIT License</a>
+[License](https://github.com/digby-j/PacMan/blob/main/LICENSE)
 
 ## Contact Information
 ### Let's Connect
