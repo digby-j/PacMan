@@ -1,5 +1,5 @@
 # PacMan
-<img src="./img/PacMan3.png" width='200' align='right'> </img>
+<img src="./img/PacMan3.png" width='100' align='right'> </img>
 -------------
 
 ## Introduction
