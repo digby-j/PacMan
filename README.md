@@ -1,7 +1,5 @@
-# Eyes
-## Exercise on eyes
-<img src= "./img/oneeye.png" width='300'/>
-
+# PacMan
+<img id="PacMan" src="./img/PacMan1.png" width='200' onclick="Run()" style="position:absolute"> </img>
 -------------
 
 ## Introduction
