@@ -1,5 +1,5 @@
 # PacMan
-<img id="PacMan" src="./img/PacMan1.png" width='200' onclick="Run()" style="position:absolute"> </img>
+<img src="./img/PacMan3.png" width='200' align='right> </img>
 -------------
 
 ## Introduction
