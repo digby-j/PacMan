@@ -6,6 +6,10 @@
 
 This repo explores javascript functionality with arrays and setTimeout, on click a pacman icon will move across the screen, then change directions when it detects the edge of the screen.
 
+You can see it, live, [here](https://digby-j.github.io/PacMan/)
+You can also check out my other projects and about me [here](https://github.com/digby-j)
+or my Portfolio Website - also with on GitHub Pages [here](https://digby-j.github.io/)
+
 ## Installation
 
 Thanks for taking interest in my repo! If you would like to download this content please do so, you can find instructions below. If you wish to fork this content please consider Staring the repo.
