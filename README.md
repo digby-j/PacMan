@@ -4,7 +4,10 @@
 
 ## Introduction
 
-This repo explores javascript functionality with arrays and setTimeout, on click a pacman icon will move across the screen, then change directions when it detects the edge of the screen.
+Using HTML, CSS and JavaScript, one can make a PacMan icon move across the browser. Using JavaScript to move the icon, while also utilising the DOM to sense and respond to the edge of the browser. This is possible due to JavaScript and Edge Detection, identifying when the edge of a specified asset's width comes in contact with the edge of the browser page, then flipping direction and continuing it's trajectory based off it's previous collision.
+
+Click the link button then, with your cursor, click on the PacMan in the top left hand corner to watch him move across the page. Click him again for an extra kick!
+
 
 Thanks for your Interest! 😎
 - You can see it, live, [here](https://digby-j.github.io/PacMan/)
@@ -18,6 +21,12 @@ Thanks for your Interest! 😎
 Thanks for taking interest in my repo! If you would like to download this content please do so, you can find instructions below. If you wish to fork this content please consider Staring the repo.
 
 Please ensure the files are all downladed into the same root direcotry, this will allow you to deploy it locally and interact with the webpage as if it were hosted on Pages.
+
+To run this application locally you will need top do the following:
+
+1. Download or clone the repo into a direcotry of your choosing
+2. Navigate to that direcotry and open file: "index.html" in your browser of choice.
+3. Once loaded, click on PacMan in the top right to watch him move across the screen.
 
 ## Road Map
 
