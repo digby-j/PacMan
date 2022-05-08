@@ -34,7 +34,7 @@ I would like to add button to the ui and allow the player more control over pacm
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,Shopping-Cart,eyes&layout=compact)](https://github.com/digby-j/PacMan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,Shopping-Cart,eyes,Real-Time-Bus-Tracker&layout=compact)](https://github.com/digby-j/PacMan/github-readme-stats)
 
 ## License
 ![](https://img.shields.io/github/license/digby-j/PacMan)
